@@ -7,7 +7,7 @@
                -Convert all the images to grayscale images
                
     3. Output:
-               -Number of images
+               -Total number of images in a given folder
                -Format type of the images
                -Saving all the grayscale images to another folder 
 
