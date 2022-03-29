@@ -1,8 +1,15 @@
 ## Custom Object detection 
-
+##
  #### Aim : 
      To train a custom object detection model using Tensorflow object detection API.
-    
+##
+     
+     
+#### Dataset : 
+  [Drive link](https://drive.google.com/drive/folders/1TiN2qCCmbhxrbV4JPNGGkzP0TA_850tb)
+  
+  
+ ##   
 
 #### Process : 
     1. Data annotation and cleaning : 
@@ -27,6 +34,7 @@
                                 e. The model was trained on Google Colab for accessing the better resource like GPU. 
                                 
 
+##
 
 #### Libraries used : 
         1. Tensorflow 
@@ -36,10 +44,19 @@
         5. Matplotlib
         6. Tensorboard 
         
+##
 
 #### Model Used :
      ssd_mobilenet_v1_coco model
+     
+##
 
+     
+#### Trained model checkpoints :
+[Drive link](https://drive.google.com/drive/folders/1MxEWFkkWBDDOnzLF9MNhqcu468yAx5hW?usp=sharing)
+
+
+## 
 
 #### Output: 
 
@@ -60,6 +77,8 @@
 ![detection_output2](https://user-images.githubusercontent.com/63935255/160679500-6848ba24-0a73-4f82-8a21-2bc88c7f18db.png)
 ![detection_output3](https://user-images.githubusercontent.com/63935255/160679513-96709135-d349-46f4-ba09-b261df37cb87.png)
 
+
+## 
 
 ### Summary : 
       Successfully trained a custom object detection model which is working with a high confidence on a given image 
